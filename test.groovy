@@ -1,1 +1,1 @@
-jenkinsfile = "Jenkinsfile"
+jenkinsfile = "/Jenkinsfile"
