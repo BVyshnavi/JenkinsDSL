@@ -1,7 +1,3 @@
 node {
-  stages {
-    steps {
-      echo "Hello world!"
-    }
-  }
+  echo "Hello world!"
 }
