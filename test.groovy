@@ -1,1 +1,7 @@
-jenkinsfile = "Jenkinsfile"
+node {
+  stages {
+    steps {
+      echo "Hello world!"
+    }
+  }
+}
