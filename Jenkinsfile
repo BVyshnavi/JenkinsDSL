@@ -1,3 +1,3 @@
 node {
-    echo "Hello world!"
+    echo "NODE_NAME = ${env.NODE_NAME}"
 }
