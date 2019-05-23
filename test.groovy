@@ -1,1 +1,1 @@
-jenkinsfile = job_path + "/Jenkinsfile"
+jenkinsfile = "/Jenkinsfile"
