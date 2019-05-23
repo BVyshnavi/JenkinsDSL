@@ -1,3 +1,1 @@
-node {
-  echo "Hello world!"
-}
+jenkinsfile = "Jenkinsfile"
