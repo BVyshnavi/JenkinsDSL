@@ -1,3 +1,7 @@
 node {
-    echo "NODE_NAME = ${env.NODE_NAME}"
+    sh("""
+    #!/bin/bash
+    echo "Hello world"
+    """
+    )   
 }
