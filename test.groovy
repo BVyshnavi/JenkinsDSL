@@ -1,1 +1,3 @@
-def jenkinsfile = "/Jenkinsfile"
+node {
+  echo "Hello world!"
+}
